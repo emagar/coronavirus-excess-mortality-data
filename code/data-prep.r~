@@ -1,0 +1,5 @@
+# -*- coding: utf-8 -*-
+
+dd <- ("~/Dropbox/data/othersData/covid19-ft/data")
+setwd(dd)
+
